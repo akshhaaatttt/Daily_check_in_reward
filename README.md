@@ -1,6 +1,6 @@
 # 🚀 Daily Check-In Rewards Smart Contract
 
-## 2️⃣ Daily Check-In Rewards 📅💎
+## 1️⃣ Daily Check-In Rewards 📅💎
 
 ### 📝 Description
 The **Daily Check-In Rewards** smart contract incentivizes users by rewarding them with tokens for logging in daily. This mechanism helps maintain user engagement and retention.
