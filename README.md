@@ -16,6 +16,7 @@ The **Daily Check-In Rewards** smart contract incentivizes users by rewarding th
 ✅ **Loyalty Programs:** Incentivize continued engagement with rewards.  
 
 ### 🔗 Smart Contract Details
+
 - **Contract Address:** [`0x43f2429EfeCC087BF66c91713269194F3bbD7209`](https://etherscan.io/address/0x43f2429EfeCC087BF66c91713269194F3bbD7209)
 - **Network:** (Specify the blockchain network, e.g., Ethereum, Polygon, BSC)
 - **Token Reward:** 10 tokens per successful daily check-in
