@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// contract for the daily reward checkin
 pragma solidity ^0.8.0;
 
 contract DailyCheckInRewards {
