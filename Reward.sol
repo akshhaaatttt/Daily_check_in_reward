@@ -4,6 +4,7 @@ pragma solidity ^0.8.0;
 contract DailyCheckInRewards {
     mapping(address => uint256) public lastCheckIn;
     mapping(address => uint256) public balances;
+
     uint256 public rewardAmount = 10 ether; // Reward per daily check-in
     uint256 public interval = 1 days; // 24-hour cooldown period
 
